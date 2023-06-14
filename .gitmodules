@@ -13,3 +13,8 @@
 	url = https://github.com/cran/Mychisq
 	shallow = true
 	registered = true
+[submodule "twopexp"]
+	path = twopexp
+	url = https://github.com/cran/twopexp
+	shallow = true
+	registered = true
