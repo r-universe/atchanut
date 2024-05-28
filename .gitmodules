@@ -8,6 +8,9 @@
 [submodule "dtgiw"]
 	path = dtgiw
 	url = https://github.com/cran/dtgiw
+[submodule "genfrn"]
+	path = genfrn
+	url = https://github.com/cran/genfrn
 [submodule "tpwb"]
 	path = tpwb
 	url = https://github.com/cran/tpwb
