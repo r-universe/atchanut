@@ -5,6 +5,9 @@
 [submodule "Mychisq"]
 	path = Mychisq
 	url = https://github.com/cran/Mychisq
+[submodule "UGarima"]
+	path = UGarima
+	url = https://github.com/cran/UGarima
 [submodule "datastat"]
 	path = datastat
 	url = https://github.com/cran/datastat
