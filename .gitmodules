@@ -20,6 +20,9 @@
 [submodule "mogiw"]
 	path = mogiw
 	url = https://github.com/cran/mogiw
+[submodule "tlgarima"]
+	path = tlgarima
+	url = https://github.com/cran/tlgarima
 [submodule "tpwb"]
 	path = tpwb
 	url = https://github.com/cran/tpwb
